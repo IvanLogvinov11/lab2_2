@@ -1,5 +1,6 @@
 a=4
 c=6
 f=7
-res=a+c+f
+g=78
+res=a+c+f-g
 print(res)
